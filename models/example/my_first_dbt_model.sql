@@ -12,6 +12,7 @@
 with source_data as (
 
     select 1 as id
+    changing something here just for testing
     union all
     select null as id
 
